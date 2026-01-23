@@ -69,8 +69,7 @@ class _BookingsPageState extends State<BookingsPage> {
           ),
         ),
       ),
-    );
-      ),
-    );
+    )
+      );
   }
 }

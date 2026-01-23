@@ -86,8 +86,7 @@ class CheckoutPage extends StatelessWidget {
           ),
         ),
       ),
-    );
-      ),
-    );
+    )
+      );
   }
 }

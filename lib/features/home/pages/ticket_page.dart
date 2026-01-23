@@ -77,8 +77,7 @@ class TicketPage extends StatelessWidget {
           ),
         ),
       ),
-    );
-      ),
-    );
+    )
+      );
   }
 }
