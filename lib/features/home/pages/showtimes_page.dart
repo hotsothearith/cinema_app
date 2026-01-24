@@ -69,7 +69,7 @@ class _ShowtimesPageState extends State<ShowtimesPage> {
 
                 // Day selector pills
                 SizedBox(
-                  height: 52,
+                  height: 70,
                   child: ListView.separated(
                     scrollDirection: Axis.horizontal,
                     itemCount: days.length,
